@@ -1,2 +1,2 @@
 # hello-world
-Let the data being
+Let the data begin
